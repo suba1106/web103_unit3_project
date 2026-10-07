@@ -21,7 +21,7 @@ const locationData = [
         city: 'Dallas',
         state: 'TX',
         zip: '75210',
-        image: 'https://placehold.co/600x400?text=Pavilion'
+        image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSsCBeCoqqbVcMUKG9r2kJHxXV4sphvj7d8dHvkK7jnTmgp9QEEPQ1j-s&s=10'
     },
     {
         name: 'American Airlines Center',
@@ -29,7 +29,7 @@ const locationData = [
         city: 'Dallas',
         state: 'TX',
         zip: '75219',
-        image: 'https://placehold.co/600x400?text=American+Airlines+Center'
+        image: 'https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlvD_ktK-BV-xL379iLLiS2_2kjZVIl2Ca40AQGOVqnO36jqRdxvvQ9Wbq05DO9I56S2SRxbOewLB1t_Q0AoNHiuxmHwsHbpwXaU12I01Te4qsP32ZHlnbMJxhN545MJxjt_869REto6uwq=s1360-w1360-h1020-rw'
     }
 ]
 

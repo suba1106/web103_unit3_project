@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from 'react'
 import Event from '../components/Event'
 import '../css/LocationEvents.css'
-import LocationsAPI from '../api/LocationsAPI'
-import EventsAPI from '../api/EventsAPI'
+import LocationsAPI from '../services/LocationsAPI'
+import EventsAPI from '../services/EventsAPI'
 
 const LocationEvents = ({index}) => {
     const [location, setLocation] = useState([])

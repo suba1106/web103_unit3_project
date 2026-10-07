@@ -34,6 +34,13 @@
     flex-wrap: wrap;
 }
 
-.location-events main i {
-    margin-right: 10px;
+#root .location-events main {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    text-align: left;
+    padding: 30px;
+    margin: 30px;
 }

@@ -10,7 +10,7 @@ const eventData = [
         date: '2026-11-14',
         time: '19:00:00',
         remaining: '2026-11-14 19:00:00',
-        image: 'https://placehold.co/600x400?text=Indie+Night',
+        image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg_GVGfup_gNoVwRTPQBNXnAJCpVFAZCQ0T_Cf0u_Qrw&s=10',
         location_id: 1
     },
     {
@@ -18,7 +18,7 @@ const eventData = [
         date: '2026-12-03',
         time: '20:30:00',
         remaining: '2026-12-03 20:30:00',
-        image: 'https://placehold.co/600x400?text=Open+Mic',
+        image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlLUXqXquqINdwFxUHkI8kHTQeW0_uHmqTQAlD7HKgw&s',
         location_id: 1
     },
     {
@@ -26,7 +26,7 @@ const eventData = [
         date: '2026-11-21',
         time: '18:00:00',
         remaining: '2026-11-21 18:00:00',
-        image: 'https://placehold.co/600x400?text=Blues+Revival',
+        image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVvfCK6Mf59Qan3Ue2_QORcFEmPevu5SQ_ACmrdLjCCw&s=10',
         location_id: 2
     },
     {
@@ -34,7 +34,7 @@ const eventData = [
         date: '2026-09-12',
         time: '21:00:00',
         remaining: '2026-09-12 21:00:00',
-        image: 'https://placehold.co/600x400?text=Throwback+Party',
+        image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNeddTIqSCnl--QvkcrPM1t3739ZP2nJHUQiF-lB6u2w&s=10',
         location_id: 2
     },
     {
@@ -42,7 +42,7 @@ const eventData = [
         date: '2026-12-19',
         time: '17:00:00',
         remaining: '2026-12-19 17:00:00',
-        image: 'https://placehold.co/600x400?text=Sunset+Festival',
+        image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjrm6LUP1At3sjkAqhywRxomZxzeVOb6_Vr7xvpdVJKQ&s=10',
         location_id: 3
     },
     {
@@ -50,7 +50,7 @@ const eventData = [
         date: '2026-10-23',
         time: '12:00:00',
         remaining: '2026-10-23 12:00:00',
-        image: 'https://placehold.co/600x400?text=Food+Truck+Friday',
+        image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI5KomJ3aYJbocjFkE6vb2IVgMmZDL8xXxy3zvW02kVw&s=10',
         location_id: 3
     },
     {
@@ -58,7 +58,7 @@ const eventData = [
         date: '2026-10-28',
         time: '19:30:00',
         remaining: '2026-10-28 19:30:00',
-        image: 'https://placehold.co/600x400?text=Home+Opener',
+        image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSE7ynN5eHUqra1o4DECP8lpeBgzjbMlpam2CKGkZTVw&s=10',
         location_id: 2
     },
     {
@@ -66,7 +66,7 @@ const eventData = [
         date: '2026-12-12',
         time: '14:00:00',
         remaining: '2026-12-12 14:00:00',
-        image: 'https://placehold.co/600x400?text=Skate+Spectacular',
+        image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3E1J-luS5GT6eyIl_oOpuuIALfGU1EikUvy8J6N2Krg&s=10',
         location_id: 3
     }
     

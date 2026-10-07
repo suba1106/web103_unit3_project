@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react'
 import Event from '../components/Event'
 import '../css/Event.css'
-import EventsAPI from '../api/EventsAPI'
+import EventsAPI from '../services/EventsAPI'
 
 const Events = () => {
     const [events, setEvents] = useState([])

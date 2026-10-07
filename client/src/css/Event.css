@@ -1,5 +1,6 @@
 .event-information {
     position: relative;
+
     width: 350px;
     height: 350px;
     padding: 0px;
@@ -54,4 +55,20 @@
     font-weight: 700;
     padding: 10px;
     text-align: center;
+}
+
+.event-list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    padding: 30px;
+}
+
+.events header h2 {
+    color: white;
+}
+
+#root main:has(.events) {
+    justify-content: flex-start;
 }

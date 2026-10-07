@@ -28,6 +28,14 @@ const App = () => {
       element: <LocationEvents index={4} />
     },
     {
+      path: '/riverside',
+      element: <LocationEvents index={5} />
+    },
+    {
+      path: '/thegrand',
+      element: <LocationEvents index={6} />
+    },
+    {
       path: '/events',
       element: <Events />
     }

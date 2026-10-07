@@ -5,8 +5,8 @@ import getLocations from '../controllers/getLocations.js'
 
 const router = express.Router()
 
-const { getLocations: getLocationsController } = getLocations
+const { getLocations: getLocationsController, getLocationById } = getLocations
 
-// define the routes for events and locations
 router.get('/locations', getLocationsController)
+router.get('/locations/:id', getLocationById)
 export default router

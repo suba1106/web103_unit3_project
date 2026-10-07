@@ -10,7 +10,7 @@ const Event = (props) => {
     useEffect(() => {
         (async () => {
             try {
-                const eventData = await EventsAPI.getEventsById(props.id)
+                const eventData = await EventsAPI.getEventById(props.id)
                 setEvent(eventData)
             }
             catch (error) {

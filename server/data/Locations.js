@@ -30,22 +30,6 @@ const locationData = [
         state: 'TX',
         zip: '75219',
         image: 'https://placehold.co/600x400?text=American+Airlines+Center'
-    },
-    {
-        name: 'Riverside Amphitheater',
-        address: '710 Riverfront Blvd',
-        city: 'Dallas',
-        state: 'TX',
-        zip: '75207',
-        image: 'https://placehold.co/600x400?text=Riverside+Amphitheater'
-    },
-    {
-        name: 'The Grand Theater',
-        address: '455 Commerce St',
-        city: 'Dallas',
-        state: 'TX',
-        zip: '75202',
-        image: 'https://placehold.co/600x400?text=The+Grand+Theater'
     }
 ]
 

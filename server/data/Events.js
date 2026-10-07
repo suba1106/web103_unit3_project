@@ -59,7 +59,7 @@ const eventData = [
         time: '19:30:00',
         remaining: '2026-10-28 19:30:00',
         image: 'https://placehold.co/600x400?text=Home+Opener',
-        location_id: 4
+        location_id: 2
     },
     {
         title: 'Holiday Skate Spectacular',
@@ -67,24 +67,9 @@ const eventData = [
         time: '14:00:00',
         remaining: '2026-12-12 14:00:00',
         image: 'https://placehold.co/600x400?text=Skate+Spectacular',
-        location_id: 4
-    },
-    {
-        title: 'Jazz by the River',
-        date: '2026-10-01',
-        time: '18:30:00',
-        remaining: '2026-10-01 18:30:00',
-        image: 'https://placehold.co/600x400?text=Jazz+by+the+River',
-        location_id: 5
-    },
-    {
-        title: 'Shakespeare in the Round',
-        date: '2027-01-16',
-        time: '19:00:00',
-        remaining: '2027-01-16 19:00:00',
-        image: 'https://placehold.co/600x400?text=Shakespeare',
-        location_id: 6
+        location_id: 3
     }
+    
 ]
 
 export default eventData

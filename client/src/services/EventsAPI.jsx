@@ -1,7 +1,8 @@
 const getAllEvents = async () => {
     try {
         const response = await fetch('/api/events')
-        return response.json()
+        const data = await response.json()
+        return data
     } catch (error) {
         throw error
     }
@@ -10,7 +11,8 @@ const getAllEvents = async () => {
 const getEventById = async (id) => {
     try {
         const response = await fetch(`/api/events/${id}`)
-        return response.json()
+        const data = await response.json()
+        return data
     } catch (error) {
         throw error
     }
@@ -19,7 +21,8 @@ const getEventById = async (id) => {
 const getEventByLocationId = async (locationId) => {
     try {
         const response = await fetch(`/api/events/location/${locationId}`)    
-    return response.json()
+        const data = await response.json()
+        return data
     } catch (error) {
         throw error
     }       
